@@ -1,0 +1,7 @@
+tts
+datasets/voice_book
+datasets/sy_dataset
+test.ipynb
+__pycache__
+checkpoints
+runs
